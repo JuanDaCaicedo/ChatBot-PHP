@@ -32,3 +32,9 @@ Incluye además una IA falsa para pruebas sin conexión y soporta funcionamiento
 - **OpenRouter API**
 
 ---
+
+## 📝 Nota final
+
+Este proyecto nació como parte de un proceso de aprendizaje mientras realizaba un curso de PHP.  
+La idea fue aplicar los conceptos del curso en un caso real, integrando buenas prácticas, separación por capas y consumo de APIs externas.  
+El resultado es un proyecto sencillo, organizado y útil para continuar aprendiendo y ampliando funcionalidades en el futuro.
