@@ -1,6 +1,8 @@
-# ChatBot en PHP
-![ChatBot](assets/img/Chat-BOT.png)
+<h1 align="center">ChatBot en PHP</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JuanDaCaicedo/ChatBot-PHP/main/assets/img/Chat-BOT.png" width="300" alt="ChatBot">
+</p>
 
 Este es un ChatBot construido en PHP que permite enviar preguntas a un modelo de inteligencia artificial usando **OpenRouter**.  
 El proyecto demuestra cómo consumir una API externa, separar la lógica de la vista y manejar un flujo completo entre una interfaz web y un backend.
@@ -30,4 +32,3 @@ Incluye además una IA falsa para pruebas sin conexión y soporta funcionamiento
 - **OpenRouter API**
 
 ---
-
